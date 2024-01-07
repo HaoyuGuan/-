@@ -1,0 +1,1 @@
+{"O": 0, "B-LOC": 1, "E-LOC": 2, "B-GPE": 3, "E-GPE": 4, "B-PER": 5, "M-PER": 6, "E-PER": 7, "S-GPE": 8, "B-ORG": 9, "M-ORG": 10, "E-ORG": 11, "M-GPE": 12, "M-LOC": 13, "S-LOC": 14, "S-PER": 15, "S-ORG": 16, "<PAD>": 17}
